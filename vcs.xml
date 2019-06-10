@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/nagads/backend-engineering-challenge" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.ibm.com:SSCA-CoC/NewsVisualization.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\IBM_ADMIN\PycharmProjects" />
