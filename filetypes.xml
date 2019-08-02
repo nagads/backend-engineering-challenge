@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Article 4 - Nvidia acquires Mellanox" type="JSON" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Article 4 - Nvidia acquires Mellanox.json" type="PLAIN_TEXT" />
       <mapping ext="tfrecord" type="PLAIN_TEXT" />
     </extensionMap>
