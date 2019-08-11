@@ -4,6 +4,8 @@
       <mapping pattern="Article 4 - Nvidia acquires Mellanox" type="JSON" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Article 4 - Nvidia acquires Mellanox.json" type="PLAIN_TEXT" />
+      <mapping pattern="annoyindxnew" type="PLAIN_TEXT" />
+      <mapping ext="mapping" type="PLAIN_TEXT" />
       <mapping ext="tfrecord" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
