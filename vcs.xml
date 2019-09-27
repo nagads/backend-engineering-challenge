@@ -18,6 +18,14 @@
           <option name="url" value="https://github.com/hanxiao/bert-as-service" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.ibm.com/SSCA-CoC/SRCH-er/tree/master/matcher" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.ibm.com/SSCA-CoC/SRCH-er-query" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\IBM_ADMIN\PycharmProjects" />
